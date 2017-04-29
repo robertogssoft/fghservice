@@ -608,6 +608,19 @@ section#contact :-ms-input-placeholder {
 section#contact .text-danger {
   color: #e74c3c;
 }
+
+section#thanks {
+  background-color: #222222;
+  background-image: url('../img/thanks.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#thanks .section-heading {
+  color: white;
+}
+
+
 footer {
   padding: 25px 0;
   text-align: center;

@@ -41,6 +41,8 @@ $(function() {
 
                     //clear all fields
                     $('#contactForm').trigger("reset");
+
+                    window.locationf="http://www.cristalab.com";
                 },
                 error: function() {
                     // Fail message
