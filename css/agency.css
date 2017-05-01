@@ -7,11 +7,25 @@ body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.inmouse{
+  background-color: transparent;
+  transition:2s;
+}
+.inmouse:hover{
+  background-color: white;
+}
+.padding{
+  padding: 5em;
+}
 .text-muted {
   color: #777777;
 }
 .text-primary {
   color: #fe3636;
+}
+.font-xlarge{
+  font-size: x-large;
 }
 p {
   font-size: 14px;
@@ -617,6 +631,17 @@ section#thanks {
   background-size: cover;
 }
 section#thanks .section-heading {
+  color: white;
+}
+
+section#ecommerce {
+  background-color: #222222;
+  background-image: url('../img/ecommerce/ecommerce.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#ecommerce .section-heading {
   color: white;
 }
 
