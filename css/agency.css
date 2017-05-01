@@ -630,7 +630,7 @@ section#error {
   background-repeat: no-repeat;
   background-size: cover;
 }
-section#error-404 .section-heading {
+section#error .section-heading {
   color: white;
 }
 
