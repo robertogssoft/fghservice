@@ -623,6 +623,17 @@ section#contact .text-danger {
   color: #e74c3c;
 }
 
+section#error {
+  background-color: #222222;
+  background-image: url('../img/header-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#error-404 .section-heading {
+  color: white;
+}
+
 section#thanks {
   background-color: #222222;
   background-image: url('../img/thanks.jpg');
