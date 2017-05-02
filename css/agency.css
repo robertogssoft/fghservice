@@ -667,6 +667,25 @@ section#responsive-design .section-heading {
   color: white;
 }
 
+section#gis {
+  background-color: #222222;
+  background-image: url('../img/gis/header-gis.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#gis .section-heading {
+  color: white;
+}
+
+section#gis-technology {
+  background-color: #222222;
+  background-image: url('../img/gis/footer-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
 
 footer {
   padding: 25px 0;
