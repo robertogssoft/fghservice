@@ -687,6 +687,17 @@ section#gis-technology {
   color: white;
 }
 
+section#seo {
+  background-color: #222222;
+  background-image: url('../img/seo/header-seo.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#seo .section-heading {
+  color: white;
+}
+
 footer {
   padding: 25px 0;
   text-align: center;
