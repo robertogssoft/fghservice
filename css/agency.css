@@ -656,6 +656,17 @@ section#ecommerce .section-heading {
   color: white;
 }
 
+section#responsive-design {
+  background-color: #222222;
+  background-image: url('../img/responsive-design/header-responsive-design.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#responsive-design .section-heading {
+  color: white;
+}
+
 
 footer {
   padding: 25px 0;
