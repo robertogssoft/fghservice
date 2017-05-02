@@ -34,6 +34,32 @@ p {
 p.large {
   font-size: 16px;
 }
+
+.height-estatic{
+  height:300px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+
+.cm{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  background-color: #222222;
+}
+#inbox-cm{
+  background-image: url('../img/community-manager/inbox.jpg');
+}
+#estrategias-cm{
+  background-image: url('../img/community-manager/estrategia-redes-sociales.jpg');
+}
+#monitoreo-cm{
+  background-image: url('../img/community-manager/monitoreo-redes-sociales.jpg');
+}
+
+
 a,
 a:hover,
 a:focus,
@@ -695,6 +721,17 @@ section#seo {
   background-size: cover;
 }
 section#seo .section-heading {
+  color: white;
+}
+
+section#community-manager {
+  background-color: #222222;
+  background-image: url('../img/community-manager/header-community-manager.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#community-manager .section-heading {
   color: white;
 }
 
