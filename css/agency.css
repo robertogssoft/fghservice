@@ -724,6 +724,17 @@ section#seo .section-heading {
   color: white;
 }
 
+section#analytics {
+  background-color: #222222;
+  background-image: url('../img/analytics/header-analytics.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section#analytics .section-heading {
+  color: white;
+}
+
 section#community-manager {
   background-color: #222222;
   background-image: url('../img/community-manager/header-community-manager.jpg');
